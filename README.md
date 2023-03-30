@@ -1,15 +1,15 @@
 # Fourth Year Opinions
-Survey Results from 52 4th-Year UofT Students.
+Survey results from 52 ECE2T3 4th-Year UofT Students.
 
 
 ## Install Dependencies
 Before installing dependencies from the following command, create a virtual environment.
 ```
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Helper Files for Data Analysis Reference
-**nulls.txt**: Describes the number of null values for a column. In the format of <*column_name*> : <*number_of_null_values*>
+**nulls.txt**: Describes the number of null values for a column. In the format of <*column_name*> : <*number_of_null_values*> <br>
 **all_columns.txt**: Names of columns
 
 ## Jupyter Notebook to HTML Conversion
