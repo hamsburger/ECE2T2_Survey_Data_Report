@@ -1,0 +1,62 @@
+body {
+    /* serif */
+    font-family: 'Georgia', 'Palatino', 'Baskerville', serif;
+    background-image: url(https://www.narcity.com/media-library/university-of-toronto-s-convocation-hall-with-the-cn-tower-in-the-background.jpg?id=30280221&width=1245&height=700&quality=85&coordinates=0%2C175%2C0%2C175);
+    /* background-image: url(static/con_hall.jpg); */
+    /* background-color: red; */
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    overflow-x: none;
+}
+
+.cell_btm_margin {
+    margin-bottom: 100px;
+}
+
+.cell_output {
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background-color: #B6D3EF;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.cell_markdown {
+    letter-spacing: 0.8px;
+    color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    background-color: #B6D3EF;
+}
+
+.celltag_intro {
+    margin-top: 30px;   
+    font-size: 15px;
+    padding-bottom: 0px;
+    margin-bottom: 30px;
+}  
+
+h1 {
+    font-family:'Trebuchet MS', 'Impact', sans-serif; 
+    letter-spacing: 6px;
+}
+
+h1::before {
+    content: '';
+    width: 15px;
+    height: 15px;
+    border: solid black;
+    border-width: 0 6px 6px 0;
+    display: inline-block;
+    margin-right: 0.75em;
+    margin-bottom: 2px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+
+
+/* .debug_block {
+    border: thin solid red;
+}
+ */

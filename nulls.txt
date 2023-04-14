@@ -12,7 +12,7 @@ What 2 areas did you specialize in? (Area 5: Computer Hardware & Computer Networ
 What 2 areas did you specialize in? (Area 6: Computer Software): 0
 What is your gender?: 0
 What is your sexual orientation?: 1
-Are you a domestic or international student?: 1
+Are you a domestic or international student?: 0
 Where did you attend high school?: 2
 What are your Ethnicities?: 1
 What are your Ethnicities? (North American origins): 1
