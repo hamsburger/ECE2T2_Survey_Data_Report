@@ -60,7 +60,10 @@ CSS can be configured by changing html_template/static/index.css and html_templa
 For more info on template customization, see here: https://nbconvert.readthedocs.io/en/5.5.0/customizing.html
 and https://nbconvert.readthedocs.io/en/latest/customizing.html
 
-
-
-
-
+## Other Concerns
+If the output of *pip freeze > requirements.txt* looks weird and contains 
+references to local files (For example, Werzkurg @ "file://mydirectory/myinnerdirectory/werzkurg.bin").
+Use this command to store requirements.txt instead.
+```
+pip list --format=freeze requirements.txt
+```
