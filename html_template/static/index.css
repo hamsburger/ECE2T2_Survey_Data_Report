@@ -14,6 +14,11 @@ body {
     margin-bottom: 100px;
 }
 
+.celltag_no_margin .cell_btm_margin{
+    margin-bottom: 0px !important;
+}
+
+
 .cell_output {
     padding-top: 10px;
     padding-bottom: 40px;

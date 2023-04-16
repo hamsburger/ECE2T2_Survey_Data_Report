@@ -14,7 +14,7 @@ What is your gender?: 0
 What is your sexual orientation?: 1
 Are you a domestic or international student?: 0
 Where did you attend high school?: 2
-What are your Ethnicities?: 1
+What are your Ethnicities?: 0
 What are your Ethnicities? (North American origins): 1
 What are your Ethnicities? (European origins): 1
 What are your Ethnicities? (Caribbean origins): 1
@@ -25,19 +25,19 @@ What are your Ethnicities? (Oceanian origins): 1
 What are your Ethnicities? (Other ethnic and cultural origins): 1
 Do you identify as an Indigenous person, that is, First Nations, Metis, or Inuk (Inuit)?: 1
 Where is home? : 3
-Did you or your parents immigrate to Canada?: 2
-Was one of your parents born as a Canada Citizen?: 2
-Education Level of Parents: 3
-Family Income Before UofT: 5
+Did you or your parents immigrate to Canada?: 0
+Was one of your parents born as a Canada Citizen?: 0
+Education Level of Parents: 0
+Family Income Before UofT: 0
 How many siblings do you have?: 2
 Did you participate in an enriched program?: 0
 What was your first-year 1st semester average (percentage)? : 6
 What was your first-year 2nd semester average (percentage)? : 8
 In what year did you start your university studies?: 1
-What was your dream career as kid?: 6
-What languages do you speak at home? (If more than 1, please section by a comma. ie English, Italian, French): 5
-What is your religious affiliation?: 2
-What is the religious affiliation of your parent(s)?: 3
+What was your dream career as kid?: 0
+What languages do you speak at home?: 5
+What is your religious affiliation?: 0
+What is the religious affiliation of your parent(s)?: 0
 What was your high school admissions average? (% percentage score): 5
 What was your second-year first semester average (%)?: 7
 What was your second-year second semester average (%)?: 7
