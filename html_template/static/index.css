@@ -11,36 +11,39 @@ body {
     background-attachment: fixed;
     color: #dcdcdc;
     margin: 0;
-    overflow-x: hidden;
 }
 
-@media screen and (min-width: 500px){
+@media screen and (min-width: 660px){
     /* .g-gtitle > .gtitle {
         font-size: 24px;
     } */
+    img, div[data-mime-type="image/svg+xml"].jp-RenderedSVG.jp-OutputArea-output svg {
+        width: 100%;
+        max-width: 800px;
+    }
+
     .cell_centered {
         margin: auto;
         width: 80%;
     }
 }
 
-
-img, svg {
-    width: 100%;
-    height: 100%;
-    max-height: 500px
-}
-
-@media screen and (max-width: 500px){
+@media screen and (max-width: 660px){
     /* .g-gtitle > .gtitle {
         font-size: 15px;
     } */
+    img, div[data-mime-type="image/svg+xml"].jp-RenderedSVG.jp-OutputArea-output svg {
+        width: 100%;
+        min-width: 325px;
+    }
+
     .cell_centered {
         margin: auto;
         width: 100%;
     }
 }
 
+/********************************************** SVG BREAKPOINTS *********************************************************/
 
 .cell_btm_margin {
     margin-bottom: 100px;
