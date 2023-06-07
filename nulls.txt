@@ -31,19 +31,19 @@ Education Level of Parents: 0
 Family Income Before UofT: 0
 How many siblings do you have?: 0
 Did you participate in an enriched program?: 0
-First-year 1st semester average: 6
-First-year 2nd semester average: 8
+First-year 1st semester average: 7
+First-year 2nd semester average: 9
 In what year did you start your university studies?: 1
 What was your dream career as kid?: 0
 What languages do you speak at home?: 0
 What is your religious affiliation?: 0
 What is the religious affiliation of your parent(s)?: 0
-High school admissions average?: 5
-Second-year first semester average: 7
-Second-year second semester average: 7
-Third-year first semester average: 7
-Third-year second semester average: 7
-Fourth-year first semester average: 7
+High school admissions average?: 6
+Second-year first semester average: 8
+Second-year second semester average: 8
+Third-year first semester average: 8
+Third-year second semester average: 8
+Fourth-year first semester average: 8
 Which term would you consider was the most difficult?: 0
 Which term would you consider was the most easy?: 0
 Have you ever failed a course?: 0
@@ -52,25 +52,25 @@ Favorite Professors: 0
 What is your favourite required course in ECE?: 0
 What is your LEAST favourite required course in ECE?: 0
 Which technical electives did you take?  (course codes only): 0
-APS### (1): 18
-ECE###: 19
+APS### (1): 19
+ECE###: 20
 electives: 0
-APS### (2): 16
-TEP###: 17
-GRE###: 20
+APS### (2): 17
+TEP###: 18
+GRE###: 21
 What Science/Math did you take? (course code only): 0
 Did you take a course over PEY?: 0
 Have you ever take summer courses?: 0
-Have you ever overloaded (taken 6 or more courses in a semester)? : 0
-What terms did you overload?: 33
-What terms did you overload? (2nd year - 1st semester): 33
-What terms did you overload? (2nd year - 2nd semester): 33
-What terms did you overload? (3rd year - 1st semester): 33
-What terms did you overload? (3rd year - 2nd semester): 33
-What terms did you overload? (4th year - 1st semester): 33
-What terms did you overload? (4th year - 2nd semester): 33
+Have you ever overloaded (taken 6 or more courses in a semester)?: 0
+What terms did you overload?: 34
+What terms did you overload? (2nd year - 1st semester): 34
+What terms did you overload? (2nd year - 2nd semester): 34
+What terms did you overload? (3rd year - 1st semester): 34
+What terms did you overload? (3rd year - 2nd semester): 34
+What terms did you overload? (4th year - 1st semester): 34
+What terms did you overload? (4th year - 2nd semester): 34
 Have you participated in an exchange?: 0
-If yes, where did you do your exchange?: 50
+If yes, where did you do your exchange?: 52
 If you did not do an exchange, what were your reasons for not?: 0
 If you did not do an exchange, what were your reasons for not? (Location uncertainty/mismatch): 6
 If you did not do an exchange, what were your reasons for not? (Money/Costs of exchange): 6
@@ -98,57 +98,57 @@ What area(s) did you do your PEY Co-op? (Consulting): 2
 What area(s) did you do your PEY Co-op? (Unrelated): 2
 What area(s) did you do your PEY Co-op? (Other): 2
 Where did you do your PEY Co-op?: 0
-What was your hourly pay for PEY?: 5
+What was your hourly pay for PEY?: 6
 Who was your employer?: 8
 Please rate your work term experience. : 4
 Do you think that the pandemic affected your search for a PEY Co-op negatively?: 4
 Will you be returning to your past PEY employer?: 0
 After graduation, my next step is..: 0
-If you are doing grad school, where will you study?: 51
+If you are doing grad school, where will you study?: 53
 Will you obtain your Professional Engineering (P.Eng) designation?: 0
 Regardless of your current circumstance, where do you prefer for your Full-Time job to be?: 2
-If you are working, what is your Full-Time Base Salary for your role?: 20
-Currency: USD, CAD, EUR (1): 22
-If you are working, what is your Full-Time Total Compensation for your role?: 27
-Currency: USD, CAD, EUR (2): 27
-Which company are you going to for Full-Time work?: 25
-When did you start your Full-Time Job Search?: 33
-When did you stop your your Full-Time Job Search?: 36
-What was your CGPA, Cumulative Grade Point Average (% score)? : 18
-Are you returning to the company where you did your PEY? : 18
-Are you returning to the company where you did a summer internship? : 22
+If you are working, what is your Full-Time Base Salary for your role?: 21
+Currency: USD, CAD, EUR (1): 23
+If you are working, what is your Full-Time Total Compensation for your role?: 28
+Currency: USD, CAD, EUR (2): 28
+Which company are you going to for Full-Time work?: 26
+When did you start your Full-Time Job Search?: 34
+When did you stop your your Full-Time Job Search?: 37
+What was your CGPA, Cumulative Grade Point Average (% score)? : 19
+Are you returning to the company where you did your PEY? : 19
+Are you returning to the company where you did a summer internship? : 23
 What are the reasons you chose your Full-Time Job?: 0
-What are the reasons you chose your Full-Time Job? (Benefits): 18
-What are the reasons you chose your Full-Time Job? (Career Growth Opportunities): 18
-What are the reasons you chose your Full-Time Job? (Company Culture ): 18
-What are the reasons you chose your Full-Time Job? (Compensation): 18
-What are the reasons you chose your Full-Time Job? (Impactful Work): 18
-What are the reasons you chose your Full-Time Job? (Industry that I Want to be Working In): 18
-What are the reasons you chose your Full-Time Job? (Lack of Other Opportunities): 18
-What are the reasons you chose your Full-Time Job? (Remote Work Flexibility): 18
-What are the reasons you chose your Full-Time Job? (To Be Near Family): 18
-What are the reasons you chose your Full-Time Job? (To be Near Friends): 18
-What are the reasons you chose your Full-Time Job? (To be Near a Significant Other): 18
-What are the reasons you chose your Full-Time Job? (Other Location-Based Reason): 18
-What are the reasons you chose your Full-Time Job? (Other): 18
+What are the reasons you chose your Full-Time Job? (Benefits): 19
+What are the reasons you chose your Full-Time Job? (Career Growth Opportunities): 19
+What are the reasons you chose your Full-Time Job? (Company Culture ): 19
+What are the reasons you chose your Full-Time Job? (Compensation): 19
+What are the reasons you chose your Full-Time Job? (Impactful Work): 19
+What are the reasons you chose your Full-Time Job? (Industry that I Want to be Working In): 19
+What are the reasons you chose your Full-Time Job? (Lack of Other Opportunities): 19
+What are the reasons you chose your Full-Time Job? (Remote Work Flexibility): 19
+What are the reasons you chose your Full-Time Job? (To Be Near Family): 19
+What are the reasons you chose your Full-Time Job? (To be Near Friends): 19
+What are the reasons you chose your Full-Time Job? (To be Near a Significant Other): 19
+What are the reasons you chose your Full-Time Job? (Other Location-Based Reason): 19
+What are the reasons you chose your Full-Time Job? (Other): 19
 Are you planning to do Grad Trip?: 0
-Where are you going on your Grad Trip (countries or Canadian province)?: 21
-What will you do after an ECE-related career, apart from retirement? : 22
+Where are you going on your Grad Trip (countries or Canadian province)?: 22
+What will you do after an ECE-related career, apart from retirement? : 23
 Please score your post-grad contentedness: 9
-How much debt are you graduating with?: 11
-How much of your tuition did you pay on your own (%) ?: 15
+How much debt are you graduating with?: 12
+How much of your tuition did you pay on your own (%) ?: 16
 Did you receive OSAP at least once?: 0
 Did you receive UTAPS at least once?: 0
 Would you consider donating to UofT in the future?: 0
 How satisfied are you with your academic experience at UofT?: 7
 How satisfied are you with your student life at UofT?: 7
 Would you choose your same program again?: 0
-If you responded no, which program would you have chosen instead?: 40
+If you responded no, which program would you have chosen instead?: 42
 How likely is it you would recommend this department to other prospective students?: 5
 I developed close friendships within my ECE class: 6
 Overall, my class is tight-knit and friendly with each other: 5
-How many close friends would you say you have in the ECE 2T2 cohort?  : 5
-How many friends would you say you have in the ECE 2T2 cohort?  : 5
+How many close friends would you say you have in the ECE 2T2 cohort?: 6
+How many friends would you say you have in the ECE 2T2 cohort?: 6
 Overall, my feelings about the ECE department are: 0
 During your time at UofT, have you experienced any of the following?: 0
 During your time at UofT, have you experienced any of the following? (Anxiety): 5
@@ -179,78 +179,78 @@ Which mental health supports did you seek out? (Reddit): 24
 Which mental health supports did you seek out? (Religious Communities): 24
 Which mental health supports did you seek out? (Other): 24
 Would you attribute changes in your mental health, if any, to your university experiences?: 7
-Do you think UofT has adequate mental health resources for students?: 6
+Do you think UofT has adequate mental health resources for students?: 7
 In first year, where did you live?: 3
 In your last year, where did you live?: 4
 How many hours a week do you spend with your parents (online/digitally)?: 6
-How many hours a week do you spend with your parents (in-person)?: 6
+How many hours a week do you spend with your parents (in-person)?: 7
 How often do you exercise?: 0
-What types of physical activity do you do?: 13
+What types of physical activity do you do?: 14
 How often do you cook for yourself?: 0
 Where do you get groceries from?: 0
-Eating on campus! Where are your favourite places to eat on campus?: 16
+Eating on campus! Where are your favourite places to eat on campus?: 17
 Do you budget your money: 6
 What makes you happy?: 15
 What are some hobbies that you picked up during the last 5 years?: 14
-How often do you go out?: 7
+How often do you go out?: 8
 Are you going to grad ball?: 7
-How many hackathons have you attended?: 9
-What clubs, design teams, or committees have you been a member of at UofT?: 19
-What intramural sports have you played at UofT?: 17
-What intramural sports have you played at UofT? (Tennis): 17
-What intramural sports have you played at UofT? (Soccer): 17
-What intramural sports have you played at UofT? (Volleyball): 17
-What intramural sports have you played at UofT? (Badminton ): 17
-What intramural sports have you played at UofT? (Ultimate): 17
-What intramural sports have you played at UofT? (Intertube Waterpolo): 17
-What intramural sports have you played at UofT? (Lacrosse): 17
-What intramural sports have you played at UofT? (Field Hockey): 17
-What intramural sports have you played at UofT? (Hockey): 17
-What intramural sports have you played at UofT? (Dodgeball): 17
-What intramural sports have you played at UofT? (Ping Pong): 17
-What intramural sports have you played at UofT? (Table Tennis): 17
-What intramural sports have you played at UofT? (Basketball): 17
-What intramural sports have you played at UofT? (None): 17
+How many hackathons have you attended?: 10
+What clubs, design teams, or committees have you been a member of at UofT?: 20
+What intramural sports have you played at UofT?: 18
+What intramural sports have you played at UofT? (Tennis): 18
+What intramural sports have you played at UofT? (Soccer): 18
+What intramural sports have you played at UofT? (Volleyball): 18
+What intramural sports have you played at UofT? (Badminton ): 18
+What intramural sports have you played at UofT? (Ultimate): 18
+What intramural sports have you played at UofT? (Intertube Waterpolo): 18
+What intramural sports have you played at UofT? (Lacrosse): 18
+What intramural sports have you played at UofT? (Field Hockey): 18
+What intramural sports have you played at UofT? (Hockey): 18
+What intramural sports have you played at UofT? (Dodgeball): 18
+What intramural sports have you played at UofT? (Ping Pong): 18
+What intramural sports have you played at UofT? (Table Tennis): 18
+What intramural sports have you played at UofT? (Basketball): 18
+What intramural sports have you played at UofT? (None): 18
 How often did you participate in an intramural sport?: 9
-What activities did you participate in off-campus?: 31
-How many times did you fall ill or were injured over the past 5 years?: 9
-What is your preferred operating system?: 9
-What is your preferred mobile operating system?: 9
-What is your favourite programming language?: 9
-What is your favourite code editor?: 9
+What activities did you participate in off-campus?: 32
+How many times did you fall ill or were injured over the past 5 years?: 10
+What is your preferred operating system?: 10
+What is your preferred mobile operating system?: 10
+What is your favourite programming language?: 10
+What is your favourite code editor?: 10
 When do you usually go to sleep during the school term?: 9
 How many hours a day would you sleep?: 8
-Which of the following applies to you?: 28
-Which of the following applies to you? (Have gone to a nightclub): 25
-Which of the following applies to you? (Have gone to class while drunk/high): 25
-Which of the following applies to you? (Have taken an edible in class ): 25
-Which of the following applies to you? (have taken a test or exam while drunk or high ): 25
-Which of the following applies to you? (have been arrested before): 25
-Which of the following applies to you? (had to go to the hospital due to alcohol/drug intake): 25
-How many committed relationships have you been in during university?: 11
-Have you dated another ECE 2T2?: 8
-How has your understanding of relationships changed in the past 5 years?: 29
-Which of the following have you done before university?: 33
-Which of the following have you done before university? (Hold hands romantically): 28
-Which of the following have you done before university? (Gone on a date): 28
-Which of the following have you done before university? (Kissed someone romantically): 28
-Which of the following have you done before university? (Been in a committed relationship): 28
-Which of the following have you done before university? (Been in a long distance relationship): 28
-Which of the following have you done before university? (Had 'friends with benefits'): 28
-Which of the following have you done before university? (Used a dating app): 28
-Which of the following have you done during university?: 23
-Which of the following have you done during university? (Hold hands romantically): 23
-Which of the following have you done during university? (Gone on a date): 23
-Which of the following have you done during university? (Kissed someone romantically): 23
-Which of the following have you done during university? (Been in a committed relationship): 23
-Which of the following have you done during university? (Been in a long distance relationship): 23
-Which of the following have you done during university? (Had 'friends with benefits'): 23
-Which of the following have you done during university? (Used a dating app): 23
+Which of the following applies to you?: 29
+Which of the following applies to you? (Have gone to a nightclub): 26
+Which of the following applies to you? (Have gone to class while drunk/high): 26
+Which of the following applies to you? (Have taken an edible in class ): 26
+Which of the following applies to you? (have taken a test or exam while drunk or high ): 26
+Which of the following applies to you? (have been arrested before): 26
+Which of the following applies to you? (had to go to the hospital due to alcohol/drug intake): 26
+How many committed relationships have you been in during university?: 12
+Have you dated another ECE 2T2?: 9
+How has your understanding of relationships changed in the past 5 years?: 30
+Which of the following have you done before university?: 35
+Which of the following have you done before university? (Hold hands romantically): 30
+Which of the following have you done before university? (Gone on a date): 30
+Which of the following have you done before university? (Kissed someone romantically): 30
+Which of the following have you done before university? (Been in a committed relationship): 30
+Which of the following have you done before university? (Been in a long distance relationship): 30
+Which of the following have you done before university? (Had 'friends with benefits'): 30
+Which of the following have you done before university? (Used a dating app): 30
+Which of the following have you done during university?: 24
+Which of the following have you done during university? (Hold hands romantically): 24
+Which of the following have you done during university? (Gone on a date): 24
+Which of the following have you done during university? (Kissed someone romantically): 24
+Which of the following have you done during university? (Been in a committed relationship): 24
+Which of the following have you done during university? (Been in a long distance relationship): 24
+Which of the following have you done during university? (Had 'friends with benefits'): 24
+Which of the following have you done during university? (Used a dating app): 24
 List the recreational controlled substances you have used during university: 0
-1. Share a story, happy or sad, from your time in ECE: 38
-2. What is something you regret over your time at UofT?: 28
-3. Give a piece of advice to your fellow ECE 2T2 - 2023 grads: 28
-How many sexual partners have you had: 49
+1. Share a story, happy or sad, from your time in ECE: 39
+2. What is something you regret over your time at UofT?: 29
+3. Give a piece of advice to your fellow ECE 2T2 - 2023 grads: 29
+How many sexual partners have you had: 51
 No Exchange Reasons: 0
 difficulty_semester_index: 0
 easiness_semester_index: 0
