@@ -32,8 +32,8 @@ Family Income Before UofT
 https://money.usnews.com/money/personal-finance/family-finance/articles/where-do-i-fall-in-the-american-economic-class-system
 How many siblings do you have?
 Did you participate in an enriched program?
-What was your first-year 1st semester average (percentage)? 
-What was your first-year 2nd semester average (percentage)? 
+What was your first-year 1st semester average (percentage)?
+What was your first-year 2nd semester average (percentage)?
 In what year did you start your university studies?
 What was your dream career as kid?
 What languages do you speak at home? (If more than 1, please section by a comma. ie English, Italian, French)
@@ -62,7 +62,7 @@ GRE###
 What Science/Math did you take? (course code only)
 Did you take a course over PEY?
 Have you ever take summer courses?
-Have you ever overloaded (taken 6 or more courses in a semester)? 
+Have you ever overloaded (taken 6 or more courses in a semester)?
 What terms did you overload?
 What terms did you overload? (2nd year - 1st semester)
 What terms did you overload? (2nd year - 2nd semester)
@@ -148,8 +148,8 @@ If you responded no, which program would you have chosen instead?
 How likely is it you would recommend this department to other prospective students?
 I developed close friendships within my ECE class
 Overall, my class is tight-knit and friendly with each other
-How many close friends would you say you have in the ECE 2T2 cohort?  
-How many friends would you say you have in the ECE 2T2 cohort?  
+How many close friends would you say you have in the ECE 2T2 cohort?
+How many friends would you say you have in the ECE 2T2 cohort?
 Overall, my feelings about the ECE department are
 During your time at UofT, have you experienced any of the following?
 During your time at UofT, have you experienced any of the following? (Anxiety)
