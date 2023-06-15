@@ -1,0 +1,106 @@
+[
+    [
+        "y",
+        [
+            "volleyball",
+            "Volleyball"
+        ],
+        "Volleyball"
+    ],
+    [
+        "n",
+        [
+            "listening to music",
+            "music",
+            "Music",
+            "tennis"
+        ],
+        null
+    ],
+    [
+        "n",
+        [
+            "Scrapbooking",
+            "DJing",
+            "walking",
+            "Skiing",
+            "baking",
+            "Cooking",
+            "cooking"
+        ],
+        null
+    ],
+    [
+        "y",
+        [
+            "Climbing",
+            "Rock climbing",
+            "Rock Climbing",
+            "climbing"
+        ],
+        "Rock Climbing"
+    ],
+    [
+        "y",
+        [
+            "guitar",
+            "Guitar"
+        ],
+        "Guitar"
+    ],
+    [
+        "n",
+        [
+            "Gardening",
+            "Reading",
+            "Streaming",
+            "Sim Racing",
+            "Reading theology"
+        ],
+        null
+    ],
+    [
+        "Y",
+        [
+            "going to the gym",
+            "gym"
+        ],
+        "Gymming"
+    ],
+    [
+        "n",
+        [
+            "weight lifting",
+            "video making",
+            "Hiking",
+            "Weight lifting",
+            "hiking",
+            "I like studying"
+        ],
+        null
+    ],
+    [
+        "n",
+        [
+            "Gaming",
+            "Swimming",
+            "Gym",
+            "Gymming"
+        ],
+        null
+    ],
+    [
+        "n",
+        [
+            "singing",
+            "ping pong",
+            "Running",
+            "Coding",
+            "Dancing",
+            "running",
+            "going out dancing",
+            "dancing"
+        ],
+        null
+    ]
+]

@@ -19,7 +19,7 @@ body {
     } */
     img, div[data-mime-type="image/svg+xml"].jp-RenderedSVG.jp-OutputArea-output svg {
         width: 100%;
-        max-width: 800px;
+        max-width: 900px;
     }
 
     .cell_centered {
