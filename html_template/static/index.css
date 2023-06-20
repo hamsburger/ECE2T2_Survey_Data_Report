@@ -4,13 +4,20 @@ body {
     /* serif */
     font-family: 'Open-Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     /* background: #2d3035; */
-    background-image: url(https://www.narcity.com/media-library/university-of-toronto-s-convocation-hall-with-the-cn-tower-in-the-background.jpg?id=30280221&width=1245&height=700&quality=85&coordinates=0%2C175%2C0%2C175);
+    /* background-image: url(https://www.narcity.com/media-library/university-of-toronto-s-convocation-hall-with-the-cn-tower-in-the-background.jpg?id=30280221&width=1245&height=700&quality=85&coordinates=0%2C175%2C0%2C175); */
     /* background-image: url(static/con_hall.jpg); */
     /* background-color: red; */
-    background-size: cover;
-    background-attachment: fixed;
-    color: #dcdcdc;
+    /* background-size: cover; */
+    /* background-attachment: fixed; */
+    background-color: #f6f3ea;
+    color: #4e4d4f;
     margin: 0;
+}
+
+.jp-RenderedSVG.jp-OutputArea-output,
+.jp-RenderedImage.jp-OutputArea-output {
+    display: flex;
+    justify-content: center;
 }
 
 @media screen and (min-width: 660px){
@@ -19,8 +26,8 @@ body {
     } */
     img, div[data-mime-type="image/svg+xml"].jp-RenderedSVG.jp-OutputArea-output svg {
         width: 100%;
-        max-width: 900px;
-    }
+        max-width: 700px;
+    }   
 
     .cell_centered {
         margin: auto;
@@ -61,15 +68,15 @@ body {
 .cell_output {
     padding-top: 10px;
     padding-bottom: 100px;
-    background-color: #2d3035;
+    background-color: #f6f3ea;
 }
 
 
 
 .cell_markdown {
-    letter-spacing: 0.8px;
+    letter-spacing: 2px;
     padding: 20px;
-    background-color: #2d3035;
+    background-color: #f6f3ea;
 }
 
 .celltag_intro {
@@ -97,28 +104,43 @@ h1::before {
     -webkit-transform: rotate(-45deg);
 }
 
-#TOC-Button {
+.burger.line {
+    width: 100%;
+    height: 3px;
+    background-color: black;
+  }
+  
+  #TOC-Button {
     position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     right: 0;
     bottom: 0;
-    border-radius: 10px;
+    width: 40px;
     padding: 10px;
+    height: 30px;
+    border-radius: 10px;
     border: 3px solid black;
     cursor: pointer;
-}
+  }
   
-#TOC {
+  /* 15% of space for menu button */
+  #TOC {
     position: fixed;
     display: none;
     right: 0;
-    bottom: 42px;
+    top: 60%;
     border-radius: 5px;
     padding: 10px;
     background-color: white;
     border: 3px solid black;
-    max-height: 700px;
+    max-height: 25%;
+    max-width: 500px;
     overflow-y: scroll;
-}
+  }
+  
+  
 
 /* g.scrollbar-slider > line.scrollbar-glyph {
     stroke-opacity: 0.4;
