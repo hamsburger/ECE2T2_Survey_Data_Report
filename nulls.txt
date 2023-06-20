@@ -193,7 +193,7 @@ Do you budget your money: 0
 What makes you happy?: 15
 What are some hobbies that you picked up during the last 5 years?: 14
 How often do you go out?: 0
-Are you going to grad ball?: 7
+Are you going to grad ball?: 0
 How many hackathons have you attended?: 10
 What clubs, design teams, or committees have you been a member of at UofT?: 20
 What intramural sports have you played at UofT?: 18
