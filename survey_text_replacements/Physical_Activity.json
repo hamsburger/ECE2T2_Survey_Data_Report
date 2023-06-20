@@ -1,0 +1,104 @@
+[
+    [
+        "Y",
+        [
+            "Run",
+            "Running",
+            "running"
+        ],
+        "Running"
+    ],
+    [
+        "N",
+        [
+            "Skating",
+            "Skiing",
+            "Strength training",
+            "Swimming"
+        ],
+        null
+    ],
+    [
+        "Y",
+        [
+            "Ultimate",
+            "Ultimate Frisbee",
+            "ultimate"
+        ],
+        "Ultimate Frisbee"
+    ],
+    [
+        "Y",
+        [
+            "Volleyball",
+            "volleyball"
+        ],
+        "Volleyball"
+    ],
+    [
+        "N",
+        [
+            "Biking",
+            "Weight lifting",
+            "Weight-Lifting",
+            "Weight-lifting",
+            "Weightlifting"
+        ],
+        null
+    ],
+    [
+        "N",
+        [
+            "Climbing",
+            "Rock Climbing",
+            "Rock climbing",
+            "biking",
+            "climbing",
+            "rock climbing"
+        ],
+        null
+    ],
+    [
+        "N",
+        [
+            "Gym",
+            "go to the gym",
+            "gym",
+            "hockey"
+        ],
+        null
+    ],
+    [
+        "N",
+        [
+            "Dance",
+            "Gymming",
+            "Hockey",
+            "Tennis",
+            "sometimes jogging if weather is nice",
+            "swimming",
+            "tennis"
+        ],
+        null
+    ],
+    [
+        "N",
+        [
+            "Walk",
+            "Walking",
+            "rowing",
+            "speed walking",
+            "walking",
+            "walking with Julien Zhu"
+        ],
+        null
+    ],
+    [
+        "Y",
+        [
+            "Working out",
+            "workout"
+        ],
+        "Working out"
+    ]
+]

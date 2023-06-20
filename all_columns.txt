@@ -24,12 +24,11 @@ What are your Ethnicities? (Asian origins)
 What are your Ethnicities? (Oceanian origins)
 What are your Ethnicities? (Other ethnic and cultural origins)
 Do you identify as an Indigenous person, that is, First Nations, Metis, or Inuk (Inuit)?
-Where is home? 
+Where is home?
 Did you or your parents immigrate to Canada?
 Was one of your parents born as a Canada Citizen?
 Education Level of Parents
 Family Income Before UofT
-https://money.usnews.com/money/personal-finance/family-finance/articles/where-do-i-fall-in-the-american-economic-class-system
 How many siblings do you have?
 Did you participate in an enriched program?
 What was your first-year 1st semester average (percentage)?
@@ -101,7 +100,7 @@ What area(s) did you do your PEY Co-op? (Other)
 Where did you do your PEY Co-op?
 What was your hourly pay for PEY?
 Who was your employer?
-Please rate your work term experience. 
+Please rate your work term experience.
 Do you think that the pandemic affected your search for a PEY Co-op negatively?
 Will you be returning to your past PEY employer?
 After graduation, my next step is..
@@ -115,9 +114,9 @@ Currency: USD, CAD, EUR (2)
 Which company are you going to for Full-Time work?
 When did you start your Full-Time Job Search?
 When did you stop your your Full-Time Job Search?
-What was your CGPA, Cumulative Grade Point Average (% score)? 
-Are you returning to the company where you did your PEY? 
-Are you returning to the company where you did a summer internship? 
+What was your CGPA, Cumulative Grade Point Average (% score)?
+Are you returning to the company where you did your PEY?
+Are you returning to the company where you did a summer internship?
 What are the reasons you chose your Full-Time Job?
 What are the reasons you chose your Full-Time Job? (Benefits)
 What are the reasons you chose your Full-Time Job? (Career Growth Opportunities)
@@ -134,7 +133,7 @@ What are the reasons you chose your Full-Time Job? (Other Location-Based Reason)
 What are the reasons you chose your Full-Time Job? (Other)
 Are you planning to do Grad Trip?
 Where are you going on your Grad Trip (countries or Canadian province)?
-What will you do after an ECE-related career, apart from retirement? 
+What will you do after an ECE-related career, apart from retirement?
 Please score your post-grad contentedness
 How much debt are you graduating with?
 How much of your tuition did you pay on your own (%) ?
@@ -248,7 +247,7 @@ Which of the following have you done during university? (Been in a long distance
 Which of the following have you done during university? (Had 'friends with benefits')
 Which of the following have you done during university? (Used a dating app)
 List the recreational controlled substances you have used during university
-Untitled long answer field (1)
-Untitled long answer field (2)
-Untitled long answer field (3)
+1. Share a story, happy or sad, from your time in ECE
+2. What is something you regret over your time at UofT?
+3. Give a piece of advice to your fellow ECE 2T2 - 2023 grads
 How many sexual partners have you had

@@ -24,7 +24,7 @@ What are your Ethnicities? (Asian origins): 1
 What are your Ethnicities? (Oceanian origins): 1
 What are your Ethnicities? (Other ethnic and cultural origins): 1
 Do you identify as an Indigenous person, that is, First Nations, Metis, or Inuk (Inuit)?: 0
-Where is home? : 3
+Where is home?: 3
 Did you or your parents immigrate to Canada?: 0
 Was one of your parents born as a Canada Citizen?: 0
 Education Level of Parents: 0
@@ -34,8 +34,8 @@ Did you participate in an enriched program?: 0
 First-year 1st semester average: 7
 First-year 2nd semester average: 9
 In what year did you start your university studies?: 1
-What was your dream career as kid?: 0
-What languages do you speak at home?: 0
+What was your dream career as kid?: 7
+What languages do you speak at home?: 6
 What is your religious affiliation?: 0
 What is the religious affiliation of your parent(s)?: 0
 High school admissions average?: 6
@@ -48,17 +48,17 @@ Which term would you consider was the most difficult?: 0
 Which term would you consider was the most easy?: 0
 Have you ever failed a course?: 0
 Have you ever failed a midterm/exam?: 0
-Favorite Professors: 0
+Favorite Professors: 12
 What is your favourite required course in ECE?: 0
 What is your LEAST favourite required course in ECE?: 0
-Which technical electives did you take?  (course codes only): 0
+Which technical electives did you take?  (course codes only): 17
 APS### (1): 19
 ECE###: 20
-electives: 0
+electives: 17
 APS### (2): 17
 TEP###: 18
 GRE###: 21
-What Science/Math did you take? (course code only): 0
+What Science/Math did you take? (course code only): 14
 Did you take a course over PEY?: 0
 Have you ever take summer courses?: 0
 Have you ever overloaded (taken 6 or more courses in a semester)?: 0
@@ -81,7 +81,7 @@ If you did not do an exchange, what were your reasons for not? (Lack of course f
 If you did not do an exchange, what were your reasons for not? (Not interested in exchange): 6
 If you did not do an exchange, what were your reasons for not? (Cancelled/unable): 6
 If you did not do an exchange, what were your reasons for not? (Other): 6
-What area(s) did you do your PEY Co-op?: 0
+What area(s) did you do your PEY Co-op?: 3
 What area(s) did you do your PEY Co-op? (Hardware): 2
 What area(s) did you do your PEY Co-op? (VSLI Systems): 2
 What area(s) did you do your PEY Co-op? (Electrical Energy Systems): 2
@@ -100,13 +100,13 @@ What area(s) did you do your PEY Co-op? (Other): 2
 Where did you do your PEY Co-op?: 0
 What was your hourly pay for PEY?: 6
 Who was your employer?: 8
-Please rate your work term experience. : 4
+Please rate your work term experience.: 4
 Do you think that the pandemic affected your search for a PEY Co-op negatively?: 4
 Will you be returning to your past PEY employer?: 0
 After graduation, my next step is..: 0
 If you are doing grad school, where will you study?: 53
 Will you obtain your Professional Engineering (P.Eng) designation?: 0
-Regardless of your current circumstance, where do you prefer for your Full-Time job to be?: 2
+Regardless of your current circumstance, where do you prefer for your Full-Time job to be?: 0
 If you are working, what is your Full-Time Base Salary for your role?: 21
 Currency: USD, CAD, EUR (1): 23
 If you are working, what is your Full-Time Total Compensation for your role?: 28
@@ -114,9 +114,9 @@ Currency: USD, CAD, EUR (2): 28
 Which company are you going to for Full-Time work?: 26
 When did you start your Full-Time Job Search?: 34
 When did you stop your your Full-Time Job Search?: 37
-What was your CGPA, Cumulative Grade Point Average (% score)? : 19
-Are you returning to the company where you did your PEY? : 19
-Are you returning to the company where you did a summer internship? : 23
+What was your CGPA, Cumulative Grade Point Average (% score)?: 19
+Are you returning to the company where you did your PEY?: 0
+Are you returning to the company where you did a summer internship?: 0
 What are the reasons you chose your Full-Time Job?: 0
 What are the reasons you chose your Full-Time Job? (Benefits): 19
 What are the reasons you chose your Full-Time Job? (Career Growth Opportunities): 19
@@ -133,7 +133,7 @@ What are the reasons you chose your Full-Time Job? (Other Location-Based Reason)
 What are the reasons you chose your Full-Time Job? (Other): 19
 Are you planning to do Grad Trip?: 0
 Where are you going on your Grad Trip (countries or Canadian province)?: 22
-What will you do after an ECE-related career, apart from retirement? : 23
+What will you do after an ECE-related career, apart from retirement?: 23
 Please score your post-grad contentedness: 9
 How much debt are you graduating with?: 12
 How much of your tuition did you pay on your own (%) ?: 16
@@ -168,7 +168,7 @@ Which aspects, if any, contributed to your mental health negatively? (Athletics)
 Which aspects, if any, contributed to your mental health negatively? (Other): 6
 Which aspects, if any, contributed to your mental health negatively? (Nothing contributed negatively): 6
 Have you sought out mental health support at the university?: 0
-Which mental health supports did you seek out?: 0
+Which mental health supports did you seek out?: 25
 Which mental health supports did you seek out? (support from friends): 24
 Which mental health supports did you seek out? (support from family): 24
 Which mental health supports did you seek out? (mental health office/therapy at UofT): 24
@@ -180,19 +180,19 @@ Which mental health supports did you seek out? (Religious Communities): 24
 Which mental health supports did you seek out? (Other): 24
 Would you attribute changes in your mental health, if any, to your university experiences?: 7
 Do you think UofT has adequate mental health resources for students?: 7
-In first year, where did you live?: 3
-In your last year, where did you live?: 4
+In first year, where did you live?: 0
+In your last year, where did you live?: 0
 How many hours a week do you spend with your parents (online/digitally)?: 6
 How many hours a week do you spend with your parents (in-person)?: 7
 How often do you exercise?: 0
 What types of physical activity do you do?: 14
 How often do you cook for yourself?: 0
-Where do you get groceries from?: 0
+Where do you get groceries from?: 13
 Eating on campus! Where are your favourite places to eat on campus?: 17
-Do you budget your money: 6
+Do you budget your money: 0
 What makes you happy?: 15
 What are some hobbies that you picked up during the last 5 years?: 14
-How often do you go out?: 8
+How often do you go out?: 0
 Are you going to grad ball?: 7
 How many hackathons have you attended?: 10
 What clubs, design teams, or committees have you been a member of at UofT?: 20
@@ -211,9 +211,9 @@ What intramural sports have you played at UofT? (Ping Pong): 18
 What intramural sports have you played at UofT? (Table Tennis): 18
 What intramural sports have you played at UofT? (Basketball): 18
 What intramural sports have you played at UofT? (None): 18
-How often did you participate in an intramural sport?: 9
+How often did you participate in an intramural sport?: 0
 What activities did you participate in off-campus?: 32
-How many times did you fall ill or were injured over the past 5 years?: 10
+How many times did you fall ill or were injured over the past 5 years?: 0
 What is your preferred operating system?: 10
 What is your preferred mobile operating system?: 10
 What is your favourite programming language?: 10
@@ -246,11 +246,12 @@ Which of the following have you done during university? (Been in a committed rel
 Which of the following have you done during university? (Been in a long distance relationship): 24
 Which of the following have you done during university? (Had 'friends with benefits'): 24
 Which of the following have you done during university? (Used a dating app): 24
-List the recreational controlled substances you have used during university: 0
+List the recreational controlled substances you have used during university: 36
 1. Share a story, happy or sad, from your time in ECE: 39
 2. What is something you regret over your time at UofT?: 29
 3. Give a piece of advice to your fellow ECE 2T2 - 2023 grads: 29
 How many sexual partners have you had: 51
-No Exchange Reasons: 0
 difficulty_semester_index: 0
 easiness_semester_index: 0
+Full-Time Base Salary (CAD): 23
+Full-Time Compensation (CAD): 28
