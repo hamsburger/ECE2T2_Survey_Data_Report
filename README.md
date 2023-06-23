@@ -3,9 +3,7 @@ Survey responses from 54 ECE2T2 UofT Students graduating in 2023.
 
 Check out the results here!!: https://hamsburger.github.io/ECE2T2_Survey_Results/
 
-<p>
-![Class Profile Bar](tutorial_images/class_profile_bar_chart.png)![Class Profile Bar](tutorial_images/class_profile_bar_chart.png)
-</p>
+<img src="tutorial_images/class_profile_title_page.png"> <image src="tutorial_images/class_profile_bar_chart.png">
 
 ## Install Dependencies
 Before installing dependencies from the following command, create a virtual environment and install
