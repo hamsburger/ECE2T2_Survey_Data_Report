@@ -20,6 +20,8 @@ body {
     justify-content: center;
 }
 
+/********************************************** SVG BREAKPOINTS *********************************************************/
+
 @media screen and (min-width: 660px){
     /* .g-gtitle > .gtitle {
         font-size: 24px;
@@ -49,8 +51,6 @@ body {
         width: 100%;
     }
 }
-
-/********************************************** SVG BREAKPOINTS *********************************************************/
 
 .cell_btm_margin {
     margin-bottom: 100px;
