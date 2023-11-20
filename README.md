@@ -2,8 +2,8 @@
 Survey responses from 54 ECE2T2 UofT Students graduating in 2023.
 Results: https://hamsburger.github.io/ECE2T2_Survey_Results/
 
-## Overview
-The above survey data report is styled and generated from a Jupyter Notebook using .sh bash scripts starting with the substring **jupyter_to_html**. The output data report is [**index.html**](index.html), which is then hosted onto GitHub Pages and can be viewed from the above link. [**ECE_Fourth_Year_Opinions.ipynb**](ECE_Fourth_Year_Opinions.ipynb) produces the data report, while [**setup_notebook.ipynb**](setup_notebook.ipynb) setups up the environment, helper functions, and adds configurations (mostly Plotly configurations).
+## How is the Website Generated?
+The above survey data report is generated using .sh bash scripts starting with the substring **jupyter_to_html**, which makes use of nbconvert to execute and style a Jupyter Notebook [**ECE_Fourth_Year_Opinions.ipynb**](ECE_Fourth_Year_Opinions.ipynb) and output its results into [**index.html**](index.html), which is then hosted onto GitHub Pages and can be viewed from the above link. Other notebooks that are involved in the pipeline include [**setup_notebook.ipynb**](setup_notebook.ipynb), which setups up the environment, helper functions, and adds configurations (mostly Plotly configurations) to the main Jupyter Notebook **ECE_Fourth_Year_Opinions.ipynb**
 
 <img src="tutorial_images/class_profile_title_page.png"> <image src="tutorial_images/class_profile_bar_chart.png">
 
