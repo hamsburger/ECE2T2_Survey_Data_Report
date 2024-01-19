@@ -25,12 +25,12 @@ Skim both .ipynb notebooks to get an idea of what's possible in Plotly!
 Notebook to HTML conversion can be done by running the script jupyter_to_html.sh, using the following command. This command will **EXECIUTE THE ENTIRE NOTEBOOK**
 and then generate an HTML output
 ```
-bash jupyter_to_html.sh
+bash /bash/jupyter_to_html.sh
 ```
 
 If you do not wish the run the entire notebook and only want to generate output HTML based on the current state of the Jupyter Notebook (based on the visualizations you have generated so far), you can run this command. 
 ```
-bash jupyter_to_html_any_no_execution.sh <name_of_notebook>
+bash /bash/jupyter_to_html_any_no_execution.sh <name_of_notebook>
 ```
 
 ## Collaborating with Others:
