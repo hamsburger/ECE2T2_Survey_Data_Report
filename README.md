@@ -1,6 +1,7 @@
 # Fourth Year Opinions
 Survey responses from 54 ECE2T2 UofT Students graduating in 2023.
-Results: https://hamsburger.github.io/ECE2T2_Survey_Results/
+See Data Report Results: https://hamsburger.github.io/ECE2T2_Survey_Results/
+Want to Learn About How I Produced the Data Report? Blog: https://harris-zheng-personal-website.vercel.app/projects/ECE2T2_Survey 
 
 ## How is the Website Generated?
 The above survey data report is generated using .sh bash scripts starting with the substring **jupyter_to_html**, which makes use of nbconvert to execute and style a Jupyter Notebook [**ECE_Fourth_Year_Opinions.ipynb**](ECE_Fourth_Year_Opinions.ipynb) and output its results into [**index.html**](index.html), which is then hosted onto GitHub Pages and can be viewed from the above link. Other notebooks that are involved in the pipeline include [**setup_notebook.ipynb**](setup_notebook.ipynb), which setups up the environment, helper functions, and adds configurations (mostly Plotly configurations) to the main Jupyter Notebook **ECE_Fourth_Year_Opinions.ipynb**
