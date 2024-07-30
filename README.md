@@ -1,7 +1,7 @@
 # Fourth Year Opinions
 Survey responses from 54 ECE2T2 UofT Students graduating in 2023.
 
-See Data Report Results: https://hamsburger.github.io/ECE2T2_Survey_Results/
+See Data Report Results: [https://hamsburger.github.io/ECE2T2_Survey_Results/](https://hamsburger.github.io/ECE2T2_Survey_Data_Report/)
 
 Want to Learn About How I Produced the Data Report? Blog: https://harris-zheng-personal-website.vercel.app/projects/ECE2T2_Survey 
 
